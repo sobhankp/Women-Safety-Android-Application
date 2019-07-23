@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "375128224116",
+    "firebase_url": "https://womensafty-7454c.firebaseio.com",
+    "project_id": "womensafty-7454c",
+    "storage_bucket": "womensafty-7454c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375128224116:android:3eacbef9049c0528",
+        "android_client_info": {
+          "package_name": "nit.com.womensafty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375128224116-e8mif8ru8mv57arutm755unsro3tqlme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nit.com.womensafty",
+            "certificate_hash": "b39f7f4da04b202c69d118cdb80b83b73446fc46"
+          }
+        },
+        {
+          "client_id": "375128224116-5etshbcaf9tsrtqhqgce04kdllov8r3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJak9EGrfzx-1S_kAgiFWE-ywdvGl0XqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375128224116-5etshbcaf9tsrtqhqgce04kdllov8r3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
